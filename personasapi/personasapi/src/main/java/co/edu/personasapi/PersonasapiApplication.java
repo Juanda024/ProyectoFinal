@@ -5,7 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication(scanBasePackages = "co.edu.personasapi")
 public class PersonasapiApplication {
-
+    
+        
+    //yuyuy
+        
 	public static void main(String[] args) {
 		SpringApplication.run(PersonasapiApplication.class, args);
 	}
